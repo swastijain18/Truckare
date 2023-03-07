@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 294 262" width="294" height="262">
+	<title>5329121-ai</title>
+	<style>
+		.s0 { fill: none;stroke: #012340;stroke-linejoin: round;stroke-width: 2 } 
+		.s1 { fill: #db172a } 
+		.s2 { fill: none;stroke: #012340;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+	</style>
+	<g id="OBJECTS">
+		<g id="&lt;Clip Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s0" d="m290.6 134.3h-140.3l-70.2-121.6h140.4z"/>
+					<path id="&lt;Path&gt;" class="s0" d="m220.5 255.9h-140.4l70.2-121.6h140.3z"/>
+					<path id="&lt;Path&gt;" class="s1" d="m108.7 62.3h83.1l41.6 72-41.6 72h-83.1l-41.5-72z"/>
+					<path id="&lt;Path&gt;" class="s0" d="m80.1 12.7h140.4l70.1 121.6-70.1 121.6h-140.4l-70.2-121.6z"/>
+					<path id="&lt;Path&gt;" class="s0" d="m290.6 134.3l-70.1 121.6-70.2-121.6 70.2-121.6z"/>
+					<path id="&lt;Path&gt;" class="s2" d="m220.5 255.9h-140.4l-70.2-121.6h140.4z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
